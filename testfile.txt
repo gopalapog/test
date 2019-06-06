@@ -3,8 +3,7 @@ this is gopal
 git add .
 
 
-<<<<<<< HEAD
+
 git clone
-=======
+
 git commit -m
->>>>>>> dab1adeebb452ce63f7e7c5fb583618dc2dceee3
